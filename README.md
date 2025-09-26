@@ -1,5 +1,5 @@
 Auto Jump Bunnyhop for cs2
-for real nuke employees only
+(real nuke employees only)
 
 
 ALWAYS USE DESUBTICK SPACEBAR CONFIG WITH THIS SCRIPT OTHERWISE YOU'RE GONNA HAVE SOME BAD TIME
